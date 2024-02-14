@@ -10,17 +10,18 @@ Consider the following Java method, which calculates the total price of items in
 
 By refactoring the long method into smaller, more focused methods, we've made the code more readable, maintainable, and testable. Additionally, adhering to the Single Responsibility Principle improves the overall design and flexibility of the codebase.
 */
+public class Initialize{
+    public static void main(String[] args) {
+        // Create a list of items
+        List<Item> items = List.of(new Item(10.0,"Jean1"),   new Item(20.0,"Jean2"), new Item(30.0,"Jean3"));
+        // Create a shopping cart
+        ShoppingCart cart = new ShoppingCart();
+        ShoppingCartRefactored refactored=new ShoppingCartRefactored();
 
-public static void main(String[] args) {
-    // Create a list of items
-    List<Item> items = List.of(new Item(10.0,"Jean1"),   new Item(20.0,"Jean2"), new Item(30.0,"Jean3"));
-    // Create a shopping cart
-    ShoppingCart cart = new ShoppingCart();
-    ShoppingCartRefactored refactored=new ShoppingCartRefactored();
 
+        // Calculate and print the total price
+        System.out.println("Total price: $" + cart.calculateTotalPrice(items));
+        System.out.println("Total price: $" + refactored.calculateTotalPrice(items));
 
-    // Calculate and print the total price
-    System.out.println("Total price: $" + cart.calculateTotalPrice(items));
-    System.out.println("Total price: $" + refactored.calculateTotalPrice(items));
-
+    }
 }
