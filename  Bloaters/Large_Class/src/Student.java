@@ -7,7 +7,6 @@ Let's illustrate this with an example:
 Problem: Large Class
 Consider a Student class that manages various aspects of a student, including their personal information and academic records:
  */
-import java.util.ArrayList;
 import java.util.List;
 
 public class Student {
