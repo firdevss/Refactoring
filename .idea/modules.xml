@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/ Bloaters/Large_Class/Large_Class.iml" filepath="$PROJECT_DIR$/ Bloaters/Large_Class/Large_Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/ Bloaters/LongParameterList/LongParameterList.iml" filepath="$PROJECT_DIR$/ Bloaters/LongParameterList/LongParameterList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ Bloaters/Long_method/Long_method.iml" filepath="$PROJECT_DIR$/ Bloaters/Long_method/Long_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ ChangePreventers/ParallelInheritanceHierarchies/ParallelInheritanceHierarchies.iml" filepath="$PROJECT_DIR$/ ChangePreventers/ParallelInheritanceHierarchies/ParallelInheritanceHierarchies.iml" />
       <module fileurl="file://$PROJECT_DIR$/ Bloaters/Primitive_Obsession/Primitive_Obsession.iml" filepath="$PROJECT_DIR$/ Bloaters/Primitive_Obsession/Primitive_Obsession.iml" />
       <module fileurl="file://$PROJECT_DIR$/Refactoring.iml" filepath="$PROJECT_DIR$/Refactoring.iml" />
       <module fileurl="file://$PROJECT_DIR$/ ObjectOrientationAbusers/Refused Bequest/Refused Bequest.iml" filepath="$PROJECT_DIR$/ ObjectOrientationAbusers/Refused Bequest/Refused Bequest.iml" />
