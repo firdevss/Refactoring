@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Refactoring.iml" filepath="$PROJECT_DIR$/Refactoring.iml" />
       <module fileurl="file://$PROJECT_DIR$/ ObjectOrientationAbusers/Refused Bequest/Refused Bequest.iml" filepath="$PROJECT_DIR$/ ObjectOrientationAbusers/Refused Bequest/Refused Bequest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ ObjectOrientationAbusers/SwitchStatement/SwitchStatement.iml" filepath="$PROJECT_DIR$/ ObjectOrientationAbusers/SwitchStatement/SwitchStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ ObjectOrientationAbusers/TemporaryField/TemporaryField.iml" filepath="$PROJECT_DIR$/ ObjectOrientationAbusers/TemporaryField/TemporaryField.iml" />
     </modules>
   </component>
 </project>
