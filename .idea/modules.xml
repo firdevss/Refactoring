@@ -4,9 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ ObjectOrientationAbusers/ClassesWithDifferentInterfaces/ClassesWithDifferentInterfaces.iml" filepath="$PROJECT_DIR$/ ObjectOrientationAbusers/ClassesWithDifferentInterfaces/ClassesWithDifferentInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/ Dispensables/Comment/Comment.iml" filepath="$PROJECT_DIR$/ Dispensables/Comment/Comment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Dispensables/DataClass/DataClass.iml" filepath="$PROJECT_DIR$/ Dispensables/DataClass/DataClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/ Bloaters/DataClumps/DataClumps.iml" filepath="$PROJECT_DIR$/ Bloaters/DataClumps/DataClumps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Dispensables/DeadCode/DeadCode.iml" filepath="$PROJECT_DIR$/ Dispensables/DeadCode/DeadCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/ ChangePreventers/DivergentChange/DivergentChange.iml" filepath="$PROJECT_DIR$/ ChangePreventers/DivergentChange/DivergentChange.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DuplicateCode/DuplicateCode.iml" filepath="$PROJECT_DIR$/DuplicateCode/DuplicateCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Dispensables/DuplicateCode/DuplicateCode.iml" filepath="$PROJECT_DIR$/ Dispensables/DuplicateCode/DuplicateCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/ Bloaters/Large_Class/Large_Class.iml" filepath="$PROJECT_DIR$/ Bloaters/Large_Class/Large_Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/ Bloaters/LongParameterList/LongParameterList.iml" filepath="$PROJECT_DIR$/ Bloaters/LongParameterList/LongParameterList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ Bloaters/Long_method/Long_method.iml" filepath="$PROJECT_DIR$/ Bloaters/Long_method/Long_method.iml" />
