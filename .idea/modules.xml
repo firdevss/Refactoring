@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/ Dispensables/DeadCode/DeadCode.iml" filepath="$PROJECT_DIR$/ Dispensables/DeadCode/DeadCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/ ChangePreventers/DivergentChange/DivergentChange.iml" filepath="$PROJECT_DIR$/ ChangePreventers/DivergentChange/DivergentChange.iml" />
       <module fileurl="file://$PROJECT_DIR$/ Dispensables/DuplicateCode/DuplicateCode.iml" filepath="$PROJECT_DIR$/ Dispensables/DuplicateCode/DuplicateCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Couplers/FeatureEnvy/FeatureEnvy.iml" filepath="$PROJECT_DIR$/ Couplers/FeatureEnvy/FeatureEnvy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Couplers/InappropriateIntimacy/InappropriateIntimacy.iml" filepath="$PROJECT_DIR$/ Couplers/InappropriateIntimacy/InappropriateIntimacy.iml" />
       <module fileurl="file://$PROJECT_DIR$/ Bloaters/Large_Class/Large_Class.iml" filepath="$PROJECT_DIR$/ Bloaters/Large_Class/Large_Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/ Dispensables/LeazyClass/LeazyClass.iml" filepath="$PROJECT_DIR$/ Dispensables/LeazyClass/LeazyClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/ Bloaters/LongParameterList/LongParameterList.iml" filepath="$PROJECT_DIR$/ Bloaters/LongParameterList/LongParameterList.iml" />
